@@ -45,3 +45,7 @@ This is a small standalone tool that you should use as a C++ source code text ed
 8.  If the automatically generated toString() and fromString() are used, the C++17 version is required (default C++11), and #include "icode.h".
 
 9.  Fields are added or removed first in the Field General tab, and then getter setter functions are added or removed in the Field Action tab.
+
+#### User manual
+
+https://gitee.com/xubingde/hellocpp
