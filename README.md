@@ -27,7 +27,7 @@ This is a small standalone tool that you should use as a C++ source code text ed
 
 #### Instructions
 
-1.  You must create a folder yourself before saving the source code. For example, if your source code is saved in the D:\hello folder, you need to manually create the following 4 folders: D:\hello, D:\hello\src, D :\hello\test, D:\hello\xdf, fill in the dir on the program GUI: D:\hello\
+1.  You must create a folder yourself before saving the source code. For example, if your source code is saved in the D:\hello folder, you need to manually create the following 4 folders: D:\hello, D:\hello\src, D :\hello\test, D:\hello\xdf, Fill in the dir input textBox: D:\hello\
 
 2.  Only 0 or 1 class is allowed for a pair of .h .cpp files. 0 classes are similar to C language, with only codes such as functions, macros and global variables.
 
@@ -44,4 +44,4 @@ This is a small standalone tool that you should use as a C++ source code text ed
 
 8.  If the automatically generated toString() and fromString() are used, the C++17 version is required (default C++11), and #include "icode.h".
 
-9.  Fields are added or removed first in the Field General input GUI, and then getter setter functions are added or removed in the Field Action GUI.
+9.  Fields are added or removed first in the Field General tab, and then getter setter functions are added or removed in the Field Action tab.
