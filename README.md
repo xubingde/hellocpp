@@ -27,7 +27,7 @@ This is a small standalone tool that you should use as a C++ source code text ed
 
 #### Instructions
 
-1.  You must create a folder yourself before saving the source code. For example, if your source code is saved in the D:\hello folder, you need to manually create the following 4 folders: D:\hello, D:\hello\src, D :\hello\test, D:\hello\xdf, Fill in the dir input textBox: D:\hello\
+1.  You must create a folder yourself before saving the source code. For example, if your source code is saved in the D:\hello folder, you need to manually create the following 4 folders: D:\hello, D:\hello\src, D :\hello\test, D:\hello\xdf, Fill in the dir input-textBox: D:\hello\
 
 2.  Only 0 or 1 class is allowed for a pair of .h .cpp files. 0 classes are similar to C language, with only codes such as functions, macros and global variables.
 
