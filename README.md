@@ -19,8 +19,8 @@ This is a small standalone tool that you should use as a C++ source code text ed
 
 #### Installation
 
-1.  Download hellocpp.zip, unzip it, and double-click hellocpp.exe to run it directly. The default font is Microsoft YaHei Mono monospaced font. It is recommended to install the font. Double-click the file MSYHMONO.ttf and click "Install". Download link: https://pan.baidu.com/s/1r6hciTqV3jfone1AQyS66w?pwd=hbk8
-  SHA256: 8d8d259a3df0aae06070a47d8f6d498ac5324298115ee01d31794a944147454e
+1.  Download hellocpp.zip, unzip it, and double-click hellocpp.exe to run it directly. The default font is Microsoft YaHei Mono monospaced font. It is recommended to install the font. Double-click the file MSYHMONO.ttf and click "Install". Download link: https://pan.baidu.com/s/1gtOjLuNJ0AkxtnJ5QgnHoA?pwd=snju
+  SHA256: b3933c282ca57775f95151d7048d4257b3de490fab9672ebd9f054dddd71b8a1
 
 2. To compile the source code, first install Qt 5.12.12, msvc++ vs2019 or higher, and the project file is a Qt Creator file.
 
